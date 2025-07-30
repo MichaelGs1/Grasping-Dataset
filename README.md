@@ -2,11 +2,9 @@
 
 This repository contains a comprehensive database for robotic grasping, featuring data for both a 2-finger gripper and a suction cup. The database is based on the EGAD mesh dataset. Additionally, it includes scripts to visualize the data, aiding in the analysis and development of grasping algorithms.
 
-Dataset for suction cup will be available in fews weeks.
-
 # Features
 - 2-Finger Gripper Data: Detailed datasets for grasping tasks using a 2-finger gripper, to be presented at the International IFAC Symposia on Mechatronics & Robotics 2025.
-<!-- - Suction Cup Data: Comprehensive datasets for grasping tasks using a suction cup. -->
+- Suction Cup Data: Comprehensive datasets for grasping tasks using a suction cup.
 - Visualization Scripts: Tools to visualize and analyze the grasping data.
 
 
