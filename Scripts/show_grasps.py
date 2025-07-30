@@ -1,7 +1,6 @@
 import os
 import sys
 import copy
-import logging
 
 import open3d as o3d
 import numpy as np

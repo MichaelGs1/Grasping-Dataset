@@ -1,5 +1,2 @@
 .mypy_cache
 .vscode
-
-Dataset-suction-cup/*
-Scripts/show_suctions.py
